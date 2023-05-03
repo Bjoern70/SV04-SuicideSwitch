@@ -4,7 +4,7 @@
 
 ### Requirements:
 
- - Add funtionality to power off SV04 printer automatically after finishing print.
+ - Add functionality to power off SV04 printer automatically after finishing print.
  - Safe electrical relization with minimum changes on existing high voltage connections.
  - Low power consumption of additional electronic components iot ensure motherboard / printer stability.
  - Maximum cost below 50 EUR / US-$
